@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\enyia\OneDrive\Documents\Learning_Programing\UpdatePrice\.metadata\.plugins\org.eclipse.jdt.core
+766051225.index
+771736960.index
